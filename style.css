@@ -1,12 +1,5 @@
 body {
-	background-color: PowderBlue;
-}
-h1 {
-	font-size: 20px;
-	font-family: Helvetica;
-}
-
-p {
-	font-size: 14px;
-	font-family: serif;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background: Tomato;
 }
